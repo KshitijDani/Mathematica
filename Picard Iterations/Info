@@ -1,0 +1,5 @@
+PicardNoOfIterations : takes lower limit of integral, intital condition and Number of Iterations from User as input.
+
+PicardErrorInput : takes lower limit of integral, initial condition, value of variable used to check the iteration and the acceptable error in result as inputs from the user.
+
+Both programs print out each iteration run with the value of Y.Furthermoe, PicardErrorInput also displays the numerical value of Y in every iteration.
